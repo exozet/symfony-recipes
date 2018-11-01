@@ -7,6 +7,6 @@
         "src/": "%SRC_DIR%/"
     },
     "env": {
-        "SONATA_PROJECT_NAME": "Exozet CMS Framework R4"
+        "SONATA_PROJECT_NAME": "Exozet CMS Framework R4 - 3.0"
     }
 }
