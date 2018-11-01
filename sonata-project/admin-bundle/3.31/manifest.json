@@ -5,5 +5,8 @@
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/",
         "src/": "%SRC_DIR%/"
+    },
+    "env": {
+        "SONATA_PROJECT_NAME": "Exozet CMS Framework R4"
     }
 }
