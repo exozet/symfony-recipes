@@ -3,6 +3,6 @@ admin_area:
     prefix: /admin
 
 _sonata_admin:
-    resource: .
+    resource: ./
     type: sonata_admin
 prefix: /admin
