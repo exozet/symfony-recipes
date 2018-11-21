@@ -3,6 +3,6 @@
         "Exozet\\CmsBundle\\ExozetCmsBundle": ["all"]
     },
     "env": {
-        "EXOZET_PROJECT_NAME": "Exozet CMS Framework R4  3.0"
+        "EXOZET_PROJECT_NAME": "Exozet CMS Framework R4 3.0"
     }
 }
